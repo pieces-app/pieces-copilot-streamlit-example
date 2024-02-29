@@ -1,0 +1,5 @@
+websocket
+pieces_os_client
+streamlit
+threading
+time
