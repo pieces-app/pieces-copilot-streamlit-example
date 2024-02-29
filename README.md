@@ -14,7 +14,7 @@ The Pieces Copilot Streamlit Bot is an interactive chatbot application built usi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hivay-at-pieces/pieces-copilot-streamlit.git
+   git clone https://github.com/pieces-app/pieces-copilot-streamlit-example.git
    ```
 2. Prerequisites: 
    
